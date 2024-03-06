@@ -4,7 +4,7 @@ Description: Main CF template that automatically changes retention period for Cl
 Parameters:
   RetentionDays:
     Type: String
-    Description: What number of days to set retetion
+    Description: What number of days to set retention
     Default: 30
   RegionToScan:
     Type: String
